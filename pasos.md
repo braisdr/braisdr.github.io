@@ -1,6 +1,6 @@
 ---
 title: Pasos
-layout: Home
+layout: default
 parent: Home
 ---
 
