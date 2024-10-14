@@ -1,5 +1,5 @@
 ---
-title: Pasos
+title: Linguaxe de Marcas
 layout: default
 parent: Home
 ---
