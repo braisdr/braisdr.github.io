@@ -5,5 +5,11 @@ favicon_ico: "/DAM-DESARROLLO-APLICACIONES-MULTIPLATAFORMA.png"
 
 url: https://just-the-docs.github.io
 
+nav_external_links:
+  - title: Repositorio base desta páxina
+    url: https://github.com/braisdr/braisdr.github.io
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
+
 aux_links:
   Aula Virtual: https://www.edu.xunta.gal/centros/iesmurallaromana/aulavirtual/my/courses.php
