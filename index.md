@@ -1,7 +1,7 @@
 ---
 title: Cursos
 layout: home
-search_exclude: true
+search_enabled: false
 ---
 
 ![imagen](/gs-dam-es.jpg)
